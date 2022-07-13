@@ -1,1 +1,1 @@
-# .github
+# salary oriented
